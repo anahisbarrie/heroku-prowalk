@@ -1,0 +1,56 @@
+{
+  "name": "prowalkweb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.2",
+    "@material-ui/icons": "^4.4.1",
+    "@mobiscroll/react-lite": "^4.8.1",
+    "clsx": "^1.0.4",
+    "mdbootstrap": "^4.8.10",
+    "mdbreact": "^4.20.0",
+    "mobiscroll": "^3.0.0-beta6",
+    "pretty-ms": "^5.0.0",
+    "react": "^16.9.0",
+    "react-bootstrap-buttons": "^1.0.0",
+    "react-confirm-alert": "^2.4.1",
+    "react-dom": "^16.9.0",
+    "react-google-maps": "^9.4.5",
+    "react-places-autocomplete": "^7.2.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "react-star-rating-component": "^1.4.1",
+    "react-star-ratings": "^2.3.0",
+    "react-stars": "^2.2.5",
+    "recompose": "^0.30.0",
+    "typeface-roboto": "0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0"
+  }
+}
