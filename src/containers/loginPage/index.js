@@ -59,7 +59,7 @@ export default class Home extends Component {
                     {/* adding a login div so I can position it to the left with color gradient */}
                     <div className="login"><form onSubmit={this.handleSubmit}>
 
-                        <div className="logoDiv">proWalk</div>
+                        <div className="logoDiv">ProWalk</div>
                         
                         {
                             this.state.error &&
