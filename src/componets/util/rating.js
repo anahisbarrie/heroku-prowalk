@@ -26,7 +26,8 @@ export default class App extends React.Component {
 
         return (
             <div>
-                <h2>Rating: {rating}</h2>
+                <p className="test">Please rate your service!</p>
+                <h2>{rating}</h2>
                 <StarRatingComponent
                     name="rate1"
                     starCount={10}

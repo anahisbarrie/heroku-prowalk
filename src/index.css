@@ -79,3 +79,8 @@ h1 {
   margin: 50px;
   margin-left: 700px;
 }
+
+.test {
+  font-family: 'Mansalva', cursive;
+  font-size: 30px;
+}
